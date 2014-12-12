@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Jan 18 19:53:14 CST 2010
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=MotionPlannerMVC_fat.jar
+manifest.mergeall=true
+manifest.mainclass=planner.app.CrowdSimul
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=<inc|MotionPlannerMVC/DAT>
